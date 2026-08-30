@@ -1,0 +1,44 @@
+{
+    "data": {
+        "Offers": [
+            {
+                "Cost": {
+                    "sample": 1
+                },
+                "IsDirectPurchase": true,
+                "OfferID": "sample",
+                "Rewards": [
+                    {
+                        "ItemID": "sample",
+                        "ItemTypeID": "sample",
+                        "Quantity": 1
+                    }
+                ],
+                "StartDate": "sample"
+            }
+        ],
+        "UpgradeCurrencyOffers": [
+            {
+                "DiscountedPercent": 1.5,
+                "Offer": {
+                    "Cost": {
+                        "sample": 1
+                    },
+                    "IsDirectPurchase": true,
+                    "OfferID": "sample",
+                    "Rewards": [
+                        {
+                            "ItemID": "sample",
+                            "ItemTypeID": "sample",
+                            "Quantity": 1
+                        }
+                    ],
+                    "StartDate": "sample"
+                },
+                "OfferID": "sample",
+                "StorefrontItemID": "sample"
+            }
+        ]
+    },
+    "status": 1
+}

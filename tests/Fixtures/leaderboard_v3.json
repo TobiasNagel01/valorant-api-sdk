@@ -1,0 +1,38 @@
+{
+    "data": {
+        "players": [
+            {
+                "card": "sample",
+                "is_anonymized": true,
+                "is_banned": true,
+                "leaderboard_rank": 1,
+                "name": "sample",
+                "puuid": null,
+                "rr": 1,
+                "tag": "sample",
+                "tier": 1,
+                "title": "sample",
+                "updated_at": "sample",
+                "wins": 1
+            }
+        ],
+        "thresholds": [
+            {
+                "start_index": 1,
+                "threshold": 1,
+                "tier": {
+                    "id": 1,
+                    "name": "sample"
+                }
+            }
+        ],
+        "updated_at": "sample"
+    },
+    "results": {
+        "after": 1,
+        "before": 1,
+        "returned": 1,
+        "total": 1
+    },
+    "status": 1
+}

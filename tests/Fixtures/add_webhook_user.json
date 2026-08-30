@@ -1,0 +1,19 @@
+{
+    "data": {
+        "success": true,
+        "user": {
+            "created_at": 1,
+            "enabled": true,
+            "events": [
+                "MATCH"
+            ],
+            "id": "sample",
+            "last_checked_at": null,
+            "last_match": null,
+            "last_mmr": null,
+            "puuid": "sample",
+            "region": "sample",
+            "updated_at": 1
+        }
+    }
+}

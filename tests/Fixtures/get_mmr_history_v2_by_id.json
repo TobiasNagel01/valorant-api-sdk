@@ -1,0 +1,33 @@
+{
+    "data": {
+        "account": {
+            "name": "sample",
+            "puuid": "sample",
+            "tag": "sample"
+        },
+        "history": [
+            {
+                "date": "sample",
+                "elo": 1,
+                "last_change": 1,
+                "map": {
+                    "id": "sample",
+                    "name": "sample"
+                },
+                "match_id": "sample",
+                "refunded_rr": 1,
+                "rr": 1,
+                "season": {
+                    "id": "sample",
+                    "short": "sample"
+                },
+                "tier": {
+                    "id": 1,
+                    "name": "sample"
+                },
+                "was_derank_protected": true
+            }
+        ]
+    },
+    "status": 1
+}

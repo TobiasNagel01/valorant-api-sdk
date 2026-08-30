@@ -1,0 +1,126 @@
+{
+    "data": {
+        "acts": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "ceremonies": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "characters": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "charmLevels": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "charms": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "chromas": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "equips": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "gameModes": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "maps": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "playerCards": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "playerTitles": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "skinLevels": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "skins": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "sprayLevels": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "sprays": [
+            {
+                "assetName": "sample",
+                "id": null,
+                "localizedNames": null,
+                "name": "sample"
+            }
+        ],
+        "version": "sample"
+    },
+    "status": 1
+}

@@ -1,0 +1,46 @@
+{
+    "data": {
+        "account": {
+            "name": "sample",
+            "puuid": "sample",
+            "tag": "sample"
+        },
+        "current": {
+            "elo": 1,
+            "games_needed_for_rating": 1,
+            "last_change": 1,
+            "leaderboard_placement": null,
+            "rank_protection_shields": 1,
+            "rr": 1,
+            "tier": {
+                "id": 1,
+                "name": "sample"
+            }
+        },
+        "peak": null,
+        "seasonal": [
+            {
+                "act_wins": [
+                    {
+                        "id": 1,
+                        "name": "sample"
+                    }
+                ],
+                "end_rr": 1,
+                "end_tier": {
+                    "id": 1,
+                    "name": "sample"
+                },
+                "games": 1,
+                "leaderboard_placement": null,
+                "ranking_schema": "sample",
+                "season": {
+                    "id": "sample",
+                    "short": "sample"
+                },
+                "wins": 1
+            }
+        ]
+    },
+    "status": 1
+}

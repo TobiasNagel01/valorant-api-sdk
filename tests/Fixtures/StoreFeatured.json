@@ -1,0 +1,51 @@
+{
+    "FeaturedBundle": {
+        "Bundle": {
+            "CurrencyID": "sample",
+            "DataAssetID": "sample",
+            "DurationRemainingInSeconds": 1,
+            "ID": "sample",
+            "Items": [
+                {
+                    "BasePrice": 1,
+                    "CurrencyID": "sample",
+                    "DiscountPercent": 1.5,
+                    "DiscountedPrice": 1.5,
+                    "IsPromoItem": true,
+                    "Item": {
+                        "Amount": 1,
+                        "ItemID": "sample",
+                        "ItemTypeID": "sample"
+                    }
+                }
+            ],
+            "TotalDiscountPercent": 1.5,
+            "WholesaleOnly": true
+        },
+        "BundleRemainingDurationInSeconds": 1,
+        "Bundles": [
+            {
+                "CurrencyID": "sample",
+                "DataAssetID": "sample",
+                "DurationRemainingInSeconds": 1,
+                "ID": "sample",
+                "Items": [
+                    {
+                        "BasePrice": 1,
+                        "CurrencyID": "sample",
+                        "DiscountPercent": 1.5,
+                        "DiscountedPrice": 1.5,
+                        "IsPromoItem": true,
+                        "Item": {
+                            "Amount": 1,
+                            "ItemID": "sample",
+                            "ItemTypeID": "sample"
+                        }
+                    }
+                ],
+                "TotalDiscountPercent": 1.5,
+                "WholesaleOnly": true
+            }
+        ]
+    }
+}

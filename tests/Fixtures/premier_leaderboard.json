@@ -1,0 +1,27 @@
+{
+    "data": [
+        {
+            "affinity": "sample",
+            "conference": "sample",
+            "customization": {
+                "icon": "sample",
+                "image": "sample",
+                "primary": "sample",
+                "secondary": "sample",
+                "tertiary": "sample"
+            },
+            "division": 1,
+            "id": "sample",
+            "losses": 1,
+            "name": "sample",
+            "ranked": true,
+            "ranking": 1,
+            "region": "sample",
+            "score": 1,
+            "tag": "sample",
+            "updated_at": "sample",
+            "wins": 1
+        }
+    ],
+    "status": 1
+}

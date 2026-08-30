@@ -1,0 +1,236 @@
+{
+    "data": [
+        {
+            "coaches": [
+                {
+                    "puuid": "sample",
+                    "team_id": "sample"
+                }
+            ],
+            "kills": [
+                {
+                    "assistants": [
+                        {
+                            "name": "sample",
+                            "puuid": "sample",
+                            "tag": "sample",
+                            "team": "sample"
+                        }
+                    ],
+                    "killer": {
+                        "name": "sample",
+                        "puuid": "sample",
+                        "tag": "sample",
+                        "team": "sample"
+                    },
+                    "location": {
+                        "x": 1,
+                        "y": 1
+                    },
+                    "player_locations": [
+                        {
+                            "location": {
+                                "x": 1,
+                                "y": 1
+                            },
+                            "player": {
+                                "name": "sample",
+                                "puuid": "sample",
+                                "tag": "sample",
+                                "team": "sample"
+                            },
+                            "view_radians": 1.5
+                        }
+                    ],
+                    "round": 1,
+                    "secondary_fire_mode": true,
+                    "time_in_match_in_ms": 1,
+                    "time_in_round_in_ms": 1,
+                    "victim": {
+                        "name": "sample",
+                        "puuid": "sample",
+                        "tag": "sample",
+                        "team": "sample"
+                    },
+                    "weapon": {
+                        "id": null,
+                        "name": null,
+                        "type": null
+                    }
+                }
+            ],
+            "metadata": {
+                "cluster": null,
+                "game_length_in_ms": 1,
+                "game_version": "sample",
+                "is_completed": true,
+                "map": {
+                    "id": "sample",
+                    "name": "sample"
+                },
+                "match_id": "sample",
+                "party_rr_penaltys": [
+                    {
+                        "party_id": "sample",
+                        "penalty": 1.5
+                    }
+                ],
+                "platform": "sample",
+                "premier": null,
+                "queue": {
+                    "id": "sample",
+                    "mode_type": null,
+                    "name": null
+                },
+                "region": null,
+                "season": {
+                    "id": "sample",
+                    "short": "sample"
+                },
+                "started_at": "sample"
+            },
+            "observers": [
+                {
+                    "account_level": 1,
+                    "card_id": "sample",
+                    "name": "sample",
+                    "party_id": "sample",
+                    "puuid": "sample",
+                    "session_playtime_in_ms": 1,
+                    "tag": "sample",
+                    "title_id": "sample"
+                }
+            ],
+            "players": [
+                {
+                    "ability_casts": {
+                        "ability1": null,
+                        "ability2": null,
+                        "grenade": null,
+                        "ultimate": null
+                    },
+                    "account_level": 1,
+                    "agent": {
+                        "id": "sample",
+                        "name": "sample"
+                    },
+                    "behavior": {
+                        "afk_rounds": 1.5,
+                        "friendly_fire": {
+                            "incoming": 1.5,
+                            "outgoing": 1.5
+                        },
+                        "rounds_in_spawn": 1.5
+                    },
+                    "customization": {
+                        "card": "sample",
+                        "preferred_level_border": null,
+                        "title": "sample"
+                    },
+                    "economy": {
+                        "loadout_value": {
+                            "average": 1.5,
+                            "overall": 1
+                        },
+                        "spent": {
+                            "average": 1.5,
+                            "overall": 1
+                        }
+                    },
+                    "name": "sample",
+                    "party_id": "sample",
+                    "platform": "sample",
+                    "puuid": "sample",
+                    "session_playtime_in_ms": 1,
+                    "stats": {
+                        "assists": 1,
+                        "bodyshots": 1,
+                        "damage": {
+                            "dealt": 1,
+                            "received": 1
+                        },
+                        "deaths": 1,
+                        "headshots": 1,
+                        "kills": 1,
+                        "legshots": 1,
+                        "score": 1
+                    },
+                    "tag": "sample",
+                    "team_id": "sample",
+                    "tier": {
+                        "id": 1,
+                        "name": "sample"
+                    }
+                }
+            ],
+            "rounds": [
+                {
+                    "ceremony": "sample",
+                    "defuse": null,
+                    "id": 1,
+                    "plant": null,
+                    "result": "sample",
+                    "stats": [
+                        {
+                            "ability_casts": {
+                                "ability_1": null,
+                                "ability_2": null,
+                                "grenade": null,
+                                "ultimate": null
+                            },
+                            "damage_events": [
+                                {
+                                    "bodyshots": 1,
+                                    "damage": 1,
+                                    "headshots": 1,
+                                    "legshots": 1,
+                                    "player": {
+                                        "name": "sample",
+                                        "puuid": "sample",
+                                        "tag": "sample",
+                                        "team": "sample"
+                                    }
+                                }
+                            ],
+                            "economy": {
+                                "armor": null,
+                                "loadout_value": 1,
+                                "remaining": 1,
+                                "weapon": null
+                            },
+                            "player": {
+                                "name": "sample",
+                                "puuid": "sample",
+                                "tag": "sample",
+                                "team": "sample"
+                            },
+                            "received_penalty": true,
+                            "stats": {
+                                "bodyshots": 1,
+                                "headshots": 1,
+                                "kills": 1,
+                                "legshots": 1,
+                                "score": 1
+                            },
+                            "stayed_in_spawn": true,
+                            "was_afk": true
+                        }
+                    ],
+                    "winning_team": "sample"
+                }
+            ],
+            "teams": [
+                {
+                    "premier_roster": null,
+                    "rounds": {
+                        "lost": 1,
+                        "won": 1
+                    },
+                    "team_id": "sample",
+                    "won": true
+                }
+            ]
+        }
+    ],
+    "status": 1
+}

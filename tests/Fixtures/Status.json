@@ -1,0 +1,79 @@
+{
+    "data": {
+        "incidents": [
+            {
+                "archive_at": null,
+                "created_at": "sample",
+                "id": 1,
+                "incident_severity": "sample",
+                "maintenance_status": null,
+                "platforms": [
+                    "sample"
+                ],
+                "titles": [
+                    {
+                        "content": "sample",
+                        "locale": "sample"
+                    }
+                ],
+                "updated_at": null,
+                "updates": [
+                    {
+                        "author": "sample",
+                        "created_at": "sample",
+                        "id": 1,
+                        "publish": true,
+                        "publish_locations": [
+                            "sample"
+                        ],
+                        "translations": [
+                            {
+                                "content": "sample",
+                                "locale": "sample"
+                            }
+                        ],
+                        "updated_at": "sample"
+                    }
+                ]
+            }
+        ],
+        "maintenances": [
+            {
+                "archive_at": null,
+                "created_at": "sample",
+                "id": 1,
+                "incident_severity": "sample",
+                "maintenance_status": null,
+                "platforms": [
+                    "sample"
+                ],
+                "titles": [
+                    {
+                        "content": "sample",
+                        "locale": "sample"
+                    }
+                ],
+                "updated_at": null,
+                "updates": [
+                    {
+                        "author": "sample",
+                        "created_at": "sample",
+                        "id": 1,
+                        "publish": true,
+                        "publish_locations": [
+                            "sample"
+                        ],
+                        "translations": [
+                            {
+                                "content": "sample",
+                                "locale": "sample"
+                            }
+                        ],
+                        "updated_at": "sample"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": 1
+}

@@ -1,0 +1,16 @@
+{
+    "data": {
+        "account_level": 1,
+        "card": "sample",
+        "name": "sample",
+        "platforms": [
+            "sample"
+        ],
+        "puuid": "sample",
+        "region": "sample",
+        "tag": "sample",
+        "title": "sample",
+        "updated_at": "sample"
+    },
+    "status": 1
+}

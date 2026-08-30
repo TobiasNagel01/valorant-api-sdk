@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "date": null,
+            "league": {
+                "icon": "sample",
+                "name": "sample",
+                "series": "sample"
+            },
+            "match": {
+                "id": 1,
+                "slug": "sample"
+            },
+            "teams": [
+                {
+                    "icon": "sample",
+                    "name": "sample",
+                    "score": null,
+                    "tag": "sample"
+                }
+            ],
+            "vods": [
+                "sample"
+            ]
+        }
+    ],
+    "status": 1
+}

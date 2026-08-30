@@ -1,0 +1,133 @@
+{
+    "data": {
+        "economy": null,
+        "games": [
+            {
+                "duration_in_s": null,
+                "map": "sample",
+                "picked_by": null,
+                "rounds": [
+                    {
+                        "round": 1,
+                        "winning_site": "sample",
+                        "winning_team": 1
+                    }
+                ],
+                "teams": [
+                    {
+                        "is_winner": true,
+                        "name": "sample",
+                        "players": [
+                            {
+                                "agent": "sample",
+                                "player": {
+                                    "id": 1,
+                                    "name": "sample",
+                                    "nation": "sample",
+                                    "slug": "sample"
+                                },
+                                "stats": {
+                                    "acs": null,
+                                    "adr": null,
+                                    "assists": null,
+                                    "deaths": null,
+                                    "first_deaths": null,
+                                    "first_kills": null,
+                                    "fk_diff": null,
+                                    "hs_pct": null,
+                                    "kast": null,
+                                    "kd_diff": null,
+                                    "kills": null,
+                                    "rating": null
+                                }
+                            }
+                        ],
+                        "score": null,
+                        "score_ct": null,
+                        "score_t": null
+                    }
+                ]
+            }
+        ],
+        "head_to_head": [
+            {
+                "date": "sample",
+                "event": {
+                    "icon": "sample",
+                    "name": "sample",
+                    "series": "sample"
+                },
+                "match": {
+                    "id": 1,
+                    "slug": "sample"
+                },
+                "score": {
+                    "team_1": 1,
+                    "team_2": 1,
+                    "winner_team": 1
+                }
+            }
+        ],
+        "metadata": {
+            "date": "sample",
+            "event": {
+                "icon": "sample",
+                "id": 1,
+                "series": "sample",
+                "slug": "sample",
+                "title": "sample"
+            },
+            "format": "sample",
+            "note": "sample",
+            "patch": "sample",
+            "status": "sample"
+        },
+        "past_matches": [
+            {
+                "matches": [
+                    {
+                        "date": "sample",
+                        "is_win": true,
+                        "match": {
+                            "id": 1,
+                            "slug": "sample"
+                        },
+                        "opponent": {
+                            "logo": "sample",
+                            "name": "sample"
+                        },
+                        "score": {
+                            "against": 1,
+                            "for": 1
+                        }
+                    }
+                ],
+                "team": 1
+            }
+        ],
+        "performance": null,
+        "streams": [
+            {
+                "link": "sample",
+                "name": "sample"
+            }
+        ],
+        "teams": [
+            {
+                "icon": "sample",
+                "id": 1,
+                "name": "sample",
+                "score": null,
+                "slug": "sample",
+                "url": "sample"
+            }
+        ],
+        "vods": [
+            {
+                "link": "sample",
+                "name": "sample"
+            }
+        ]
+    },
+    "status": 1
+}

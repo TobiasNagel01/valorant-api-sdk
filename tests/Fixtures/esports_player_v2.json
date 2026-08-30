@@ -1,0 +1,75 @@
+{
+    "data": {
+        "agent_stats": [
+            {
+                "agent": "sample",
+                "stats": {
+                    "acs": 1.5,
+                    "adr": 1.5,
+                    "apr": 1.5,
+                    "assists": 1,
+                    "deaths": 1,
+                    "fdpr": 1.5,
+                    "first_deaths": 1,
+                    "first_kills": 1,
+                    "fkpr": 1.5,
+                    "kast": 1.5,
+                    "kd": 1.5,
+                    "kills": 1,
+                    "kpr": 1.5,
+                    "rating": 1.5
+                },
+                "usage": {
+                    "count": 1,
+                    "percentage": 1.5,
+                    "rounds": 1
+                }
+            }
+        ],
+        "avatar": null,
+        "country": null,
+        "current_teams": [
+            {
+                "id": 1,
+                "logo": "sample",
+                "name": "sample"
+            }
+        ],
+        "event_placements": [
+            {
+                "event": {
+                    "id": 1,
+                    "name": "sample",
+                    "slug": "sample"
+                },
+                "placements": [
+                    {
+                        "placement": "sample",
+                        "prize": null,
+                        "stage": "sample",
+                        "team": null
+                    }
+                ],
+                "year": "sample"
+            }
+        ],
+        "id": 1,
+        "name": "sample",
+        "past_teams": [
+            {
+                "id": 1,
+                "logo": "sample",
+                "name": "sample"
+            }
+        ],
+        "real_name": null,
+        "socials": [
+            {
+                "platform": "sample",
+                "url": "sample"
+            }
+        ],
+        "total_winnings": null
+    },
+    "status": 1
+}

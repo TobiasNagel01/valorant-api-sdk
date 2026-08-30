@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "meta": {
+                "cluster": null,
+                "id": "sample",
+                "map": {
+                    "id": "sample",
+                    "name": "sample"
+                },
+                "mode": "sample",
+                "region": "sample",
+                "season": {
+                    "id": "sample",
+                    "short": "sample"
+                },
+                "started_at": "sample",
+                "version": "sample"
+            },
+            "stats": {
+                "assists": 1,
+                "character": {
+                    "id": "sample",
+                    "name": "sample"
+                },
+                "damage": {
+                    "made": 1,
+                    "received": 1
+                },
+                "deaths": 1,
+                "kills": 1,
+                "level": 1,
+                "name": null,
+                "puuid": "sample",
+                "score": 1,
+                "shots": {
+                    "body": 1,
+                    "head": 1,
+                    "leg": 1
+                },
+                "tag": null,
+                "team": "sample",
+                "tier": 1
+            },
+            "teams": {
+                "blue": 1,
+                "red": 1
+            }
+        }
+    ],
+    "results": {
+        "after": 1,
+        "before": 1,
+        "returned": 1,
+        "total": 1
+    },
+    "status": 1
+}

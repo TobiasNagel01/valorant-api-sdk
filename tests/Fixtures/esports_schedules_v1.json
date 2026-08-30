@@ -1,0 +1,41 @@
+{
+    "data": [
+        {
+            "date": "sample",
+            "league": {
+                "icon": "sample",
+                "identifier": "sample",
+                "name": "sample",
+                "region": "sample"
+            },
+            "match": {
+                "game_type": {
+                    "count": null,
+                    "type": null
+                },
+                "id": null,
+                "teams": [
+                    {
+                        "code": "sample",
+                        "game_wins": 1,
+                        "has_won": true,
+                        "icon": "sample",
+                        "name": "sample",
+                        "record": {
+                            "losses": 1,
+                            "wins": 1
+                        }
+                    }
+                ]
+            },
+            "state": "sample",
+            "tournament": {
+                "name": "sample",
+                "season": "sample"
+            },
+            "type": "sample",
+            "vod": null
+        }
+    ],
+    "status": 1
+}

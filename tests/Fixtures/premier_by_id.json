@@ -1,0 +1,37 @@
+{
+    "data": {
+        "customization": {
+            "icon": "sample",
+            "image": "sample",
+            "primary": "sample",
+            "secondary": "sample",
+            "tertiary": "sample"
+        },
+        "enrolled": true,
+        "id": "sample",
+        "member": [
+            {
+                "name": null,
+                "puuid": "sample",
+                "tag": null
+            }
+        ],
+        "name": "sample",
+        "placement": {
+            "conference": "sample",
+            "division": 1,
+            "place": 1,
+            "points": 1
+        },
+        "ranked": true,
+        "stats": {
+            "losses": 1,
+            "matches": 1,
+            "rounds_lost": 1,
+            "rounds_won": 1,
+            "wins": 1
+        },
+        "tag": "sample"
+    },
+    "status": 1
+}

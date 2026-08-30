@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "dates": {
+                "end": null,
+                "start": null
+            },
+            "icon": "sample",
+            "id": 1,
+            "price": "sample",
+            "region": "sample",
+            "slug": "sample",
+            "status": "completed",
+            "title": "sample"
+        }
+    ],
+    "status": 1
+}

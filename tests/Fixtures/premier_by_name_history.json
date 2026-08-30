@@ -1,0 +1,25 @@
+{
+    "data": {
+        "league_matches": [
+            {
+                "id": "sample",
+                "points_after": 1,
+                "points_before": 1,
+                "started_at": "sample"
+            }
+        ],
+        "tournament_matches": [
+            {
+                "matches": [
+                    "sample"
+                ],
+                "placement": 1,
+                "placement_league_bonus": 1,
+                "points_after": 1,
+                "points_before": 1,
+                "tournament_id": "sample"
+            }
+        ]
+    },
+    "status": 1
+}

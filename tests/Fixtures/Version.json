@@ -1,0 +1,12 @@
+{
+    "data": {
+        "branch": "sample",
+        "build_date": "sample",
+        "build_ver": "sample",
+        "last_checked": "sample",
+        "region": "sample",
+        "version": 1,
+        "version_for_api": "sample"
+    },
+    "status": 1
+}

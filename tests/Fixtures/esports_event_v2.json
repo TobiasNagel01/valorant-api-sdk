@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "date": null,
+            "event": "sample",
+            "id": 1,
+            "series": "sample",
+            "slug": "sample",
+            "tags": [
+                "sample"
+            ],
+            "teams": [
+                {
+                    "is_winner": true,
+                    "name": "sample",
+                    "score": null
+                }
+            ]
+        }
+    ],
+    "status": 1
+}
